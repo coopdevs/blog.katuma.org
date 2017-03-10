@@ -20,7 +20,7 @@ header-img: "img/post-bg-01.jpg"
 <p>En <a href="http://coopdevs.org/" title="coopdevs">coopdevs</a>, contamos con varias personas de diversas <em>coopes</em>, técnicos que no han llegado a quemarse pero que ven clara la necesidad de proponer soluciones comunes de software libre que hagan mucho más llevadero participar en un grupo de consumo, de esta inquietud surge el proyecto <strong><a href="http://katuma.org/" title="katuma">Katuma</a></strong>, una plataforma de software libre que está a punto para su lanzamiento.</p>
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/mision.jpg" alt="Post Sample Image">
+    <img src="{{ site.baseurl }}/img/MSG-4_liftoff.jpg" alt="Post Sample Image">
 </a>
 <span class="caption text-muted">Mucha gente pequeña en lugares pequeños, haciendo cosas pequeñas pueden cambiar el mundo. — Eduardo Galeano</span>
 
@@ -36,3 +36,4 @@ header-img: "img/post-bg-01.jpg"
 </ul>
 <p><strong>La cuenta atrás ha comenzado ¿quieres subir a bordo?</strong></p>
 <p>Participa en la cocreación de Katuma en <a href="http://community.coopdevs.org/">http://community.coopdevs.org/</a>.</p>
+<em>Fotos: <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a> y <a href="http://www.esa.int/spaceinimages/Images/2013/11/Swarm_launch_rehearsal">ESA/L. Guilpain - CC BY-SA IGO 3.0</a></em>
